@@ -1,0 +1,6 @@
+engine.py
+__pycache__/
+*.pyc
+*.tar.gz
+cassette/
+out/
